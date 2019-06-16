@@ -2,7 +2,6 @@
 #define  __SBGC__
 
 #include <Arduino.h>
-#include "Ticker.h"
 
 
 class LedRGB{
